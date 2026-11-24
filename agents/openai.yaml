@@ -1,0 +1,8 @@
+interface:
+  display_name: "Y2K 撞色描边海报"
+  short_description: "识别任意照片主体并生成高饱和撞色描边剪贴海报视觉方案"
+  brand_color: "#2447FF"
+  default_prompt: "使用 $y2k-pop-poster 先让我确认撞色与三级背景质感，再把上传照片制作成带粗描边、文字和星芒波点的 Y2K 海报。"
+
+policy:
+  allow_implicit_invocation: true
